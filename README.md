@@ -15,3 +15,5 @@ SPACE INVADERS
 
 **화면**
 ![프젝2](https://user-images.githubusercontent.com/70643208/94398915-6b825c80-01a1-11eb-8a23-96b7f82a8ecb.PNG)
+
+![프젝22](https://user-images.githubusercontent.com/70643208/94399385-39252f00-01a2-11eb-9bd4-8121e3e515c3.PNG)
